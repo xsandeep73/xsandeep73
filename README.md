@@ -4,6 +4,5 @@
 -  I’m looking to collaborate on Google summer of code.
 -  LinkedIn:www.linkedin.com/in/sandeep-roy-0463242a2
 -  GeeksForGeeks:[sandeepzvy1](https://www.geeksforgeeks.org/user/sandeepzvy1/)
--  Instagram:https://www.instagram.com/c.sndeep73
 -  Open source contributor
 
